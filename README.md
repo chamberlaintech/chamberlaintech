@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @chamberlaintech
-- 🌱 I’m currently learning React
-
-
+- 🌱 I’m currently learning JS, React and Photoshop
