@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @chamberlaintech
-- 🌱 I’m currently learning JS, React and Photoshop
+- 🌱 I’m a Frontend developer, currently learning Backend developing.
